@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var fname = "Gaurang";
+var lname = "Gawade";
+console.log(fname, lname);
+let na = 10;
+let no = 5;
+console.log("Addition: " + (na + no));
+console.log("Substraction: " + (na - no));
+console.log("Multiplication: " + (na * no));
+console.log("Division: " + (na / no));
